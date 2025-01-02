@@ -8,3 +8,4 @@ Implementé un modelo de Random Forest optimizado con GridSearchCV, logrando una
 Generé análisis estadísticos y visualizaciones, como mapas de calor de correlaciones y gráficos exploratorios, para identificar características relevantes y patrones clínicos.
 Validé el rendimiento del modelo utilizando métricas como matriz de confusión, precisión y puntuación F1.
 Esta explicación resalta habilidades clave como limpieza de datos, optimización de modelos y aplicación de machine learning para resolver problemas clínicos.
+Herramientas utilizadas: python, numpy, pandas, seaborn, sklearn, matplotlib y plotly.
